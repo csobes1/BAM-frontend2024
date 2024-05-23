@@ -1,0 +1,42 @@
+.contenedor {
+    height: 350px;
+    width: 70%;
+    background: yellow;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+.hijo {
+
+    width: 250px;
+    margin: 25px;
+    order: ;
+ 
+}
+
+.hijo1{
+    height: 250px;
+    background: red;
+    order: 2;
+}
+
+.hijo2{
+    height: 150px;
+    background: green;
+    order: 3;
+}
+
+.hijo3{
+    height: 200px;
+    background: blue;
+    order: 1;
+}
+
+.hijo4 {
+height: 200px;
+background: orange;
+
+}
